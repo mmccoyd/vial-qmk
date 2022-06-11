@@ -1,2 +1,9 @@
 CAPS_WORD_ENABLE = yes
 VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+# Vial space saving
+#QMK_SETTINGS = no
+TAP_DANCE_ENABLE = no
+COMBO_ENABLE = no
+KEY_OVERRIDE_ENABLE = no
