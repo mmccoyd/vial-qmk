@@ -1,11 +1,11 @@
 # Hillside 52
 
-![hillside](https://imgur.com/erJPjvr.png)
+![hillside](https://imgur.com/eDqDMk7h.png)
 
 [Hillside 52](https://github.com/mmccoyd/hillside)
- is a split ergonomic keyboard
- with 3x6+3+5 choc-spaced keys with aggressive column stagger,
- a longer thumb arc, arrow inverted-T, and a breakoff outer-pinky column.
+ is a split ergonomic keyboard with 3x6+3+5 choc-spaced keys,
+ splayed ring and pinkie columns, aggressive column stagger,
+ a longer thumb arc, an inverted-T arrow cluster and a breakoff outer-pinkie column.
 
 * Keyboard Maintainer: [Michael McCoyd](https://github.com/mmccoyd)
 * Hardware Supported: ProMicro/Elite-C and compatible
