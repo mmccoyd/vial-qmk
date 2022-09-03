@@ -2,7 +2,7 @@
     "name": "Hillside 52",
     "vendorId": "0x4D4D",
     "productId": "0x4852",
-    "lighting": "none",
+    "lighting": "qmk_rgblight",
     "matrix": {"rows": 10, "cols": 6},
 
     "layouts": {
@@ -104,6 +104,19 @@
       "x": 3.5
     },
     "7,5"
+  ],
+  [
+    {
+      "y": 2.53,
+      "x": 3
+    },
+    "0,0\n\n\n\n\n\n\n\n\ne",
+    "0,1\n\n\n\n\n\n\n\n\ne",
+    {
+      "x": 5.5
+    },
+    "1,0\n\n\n\n\n\n\n\n\ne",
+    "1,1\n\n\n\n\n\n\n\n\ne"
   ],
   [
     {

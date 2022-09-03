@@ -3,8 +3,11 @@
 
 #pragma once
 
+
 #include "config_common.h"
 
+
+#define SPLIT_USB_DETECT
 /* key matrix size */
 // Rows are doubled-up
 #define MATRIX_ROWS 10
